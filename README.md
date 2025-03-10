@@ -1,0 +1,2 @@
+# Bancario-Simples
+Esse repositorio foi criado para relembra um pouco a prática de POO, e praticar o uso de Exceções que estudei esses ultimos dias, tendo o uso de try- catch para tratar as exceções e o uso do Throws para declarar que o método pode tratar a exceção. Nesse caso, eu criei uma Exceção personalizada que trata o Saldo Incorreto caso o usuario de sua conta (Conta Corrente ou Conta Poupança) insira algum saldo incorreto, tendo nos métodos Saque ou deposito. 
